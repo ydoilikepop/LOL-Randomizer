@@ -54,7 +54,7 @@ boots = ["Berserker's Greaves", "Boots of Mobility",
  "Mercury's Treads", "Ninja Tabi", "Sorcerer's Shoes"]
 
 top_laners = ["Aatrox", "Akali", "Camille", "Darius", 
-"Dr. Mundo", "Fiora", "Gangplank", , "Gnar", "Heimerdinger",
+"Dr. Mundo", "Fiora", "Gangplank", "Gnar", "Heimerdinger",
  "Illaoi", "Irelia", "Jax", "Kennen", "Kled", "Malphite", 
  "Maokai", "Mordekaiser", "Nasus", "Nautilus", "Nidalee", 
  "Nocturne", "Nunu", "Olaf", "Pantheon", "Poppy", "Quinn", 
